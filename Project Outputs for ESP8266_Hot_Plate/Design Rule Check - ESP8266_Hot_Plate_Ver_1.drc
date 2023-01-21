@@ -1,0 +1,176 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\desktop\Documents\Project Files\Altium\Projects\ESP8266_Hot_Plate\ESP8266_Hot_Plate_Ver_1.PcbDoc
+Date     : 25-12-2022
+Time     : 06:46:51 PM
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.7mm) (Max=1mm) (Preferred=1mm) (InNetClass('GND'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.7mm) (Max=1mm) (Preferred=1mm) (InNetClass('Power'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.5mm) (Max=0.7mm) (Preferred=0.7mm) (WithinRoom('Max6675_Room'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.5mm) (Max=0.5mm) (Preferred=0.5mm) (InNetClass('Signal'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.5mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.15mm) Between Pad H4-1(3.75mm,64mm) on Multi-Layer And Text "M1" (3.82mm,63.027mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+Rule Violations :1
+
+Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Via (51.435mm,39.15mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (51.435mm,40.338mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (51.435mm,41.525mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (57.937mm,39.164mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (57.937mm,41.525mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (59.198mm,39.089mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (59.198mm,41.525mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (59.29mm,31.109mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (59.29mm,33.484mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (60.458mm,39.089mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (60.458mm,41.525mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (60.763mm,31.109mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (60.763mm,33.484mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (61.419mm,35.414mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (61.419mm,36.601mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (61.419mm,37.789mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (61.719mm,39.014mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (61.719mm,41.525mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (62.235mm,33.484mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (62.685mm,35.414mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (62.685mm,36.601mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (62.685mm,37.789mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (63.708mm,33.484mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (65.18mm,31.109mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (65.18mm,33.484mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (69.598mm,31.109mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (71.07mm,31.109mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (71.07mm,32.297mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (71.07mm,33.484mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (72.066mm,19.055mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (72.066mm,20.528mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (72.066mm,22mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (72.066mm,23.473mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (72.066mm,24.945mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (72.105mm,27.553mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (72.559mm,36.781mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (72.559mm,38.706mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (72.559mm,40.456mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (72.587mm,42.274mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (72.627mm,28.691mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (73.1mm,27.575mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (75.275mm,26.366mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (75.275mm,28.741mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (76.522mm,26.366mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (76.522mm,28.741mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (76.609mm,22.125mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (76.609mm,23.597mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (76.609mm,25.07mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (77.797mm,22.125mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (77.995mm,28.741mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (78.984mm,22.125mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (78.984mm,25.07mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (79.145mm,26.341mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (79.145mm,28.716mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (79.683mm,34.95mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (81.597mm,33.559mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (82.808mm,44.737mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (82.808mm,49.487mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (82.833mm,46.812mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (82.833mm,51.837mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (83.148mm,36.397mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (84.16mm,33.609mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (86.483mm,49.787mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (86.508mm,36.012mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (86.508mm,38.387mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (86.508mm,40.762mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (86.508mm,43.137mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (86.508mm,45.512mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (86.508mm,47.887mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (86.722mm,33.559mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (87.861mm,34.975mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (87.861mm,37.35mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (87.861mm,39.725mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (87.861mm,42.1mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (87.861mm,44.475mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (87.861mm,46.85mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (87.861mm,49.225mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (87.886mm,51.6mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (88.147mm,33.559mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (88.177mm,27.586mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (88.177mm,29.061mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (88.177mm,30.536mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (88.177mm,32.011mm) from Top Layer to Bottom Layer 
+Rule Violations :83
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.05mm) Between Board Edge And Text "H2" (82.661mm,68.082mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.05mm) Between Board Edge And Text "H4" (0.162mm,68.082mm) on Top Overlay 
+Rule Violations :2
+
+Processing Rule : Room 1_ESP8266_Hot_Plate (Bounding Region = (0mm, 15mm, 192.825mm, 116mm) (InComponentClass('1_ESP8266_Hot_Plate'))
+Rule Violations :0
+
+Processing Rule : Max6675_Room (Bounding Region = (42.125mm, 66.4mm, 49.5mm, 77.55mm) (InComponentClass('Room Definition1'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+   Waived Violation between Clearance Constraint: (0.102mm < 0.33mm) Between Arc (3.75mm,4mm) on Bottom Layer And Pad H1-1(3.75mm,4mm) on Multi-Layer Waived by Bantybanty Bantybanty at 25-12-2022 06:43:20 PM
+   Waived Violation between Clearance Constraint: (0.102mm < 0.33mm) Between Arc (3.75mm,4mm) on Top Layer And Pad H1-1(3.75mm,4mm) on Multi-Layer Waived by Bantybanty Bantybanty at 25-12-2022 06:43:20 PM
+   Waived Violation between Clearance Constraint: (0.102mm < 0.33mm) Between Arc (3.75mm,64mm) on Bottom Layer And Pad H4-1(3.75mm,64mm) on Multi-Layer Waived by Bantybanty Bantybanty at 25-12-2022 06:43:20 PM
+   Waived Violation between Clearance Constraint: (0.102mm < 0.33mm) Between Arc (3.75mm,64mm) on Top Layer And Pad H4-1(3.75mm,64mm) on Multi-Layer Waived by Bantybanty Bantybanty at 25-12-2022 06:43:20 PM
+   Waived Violation between Clearance Constraint: (0.102mm < 0.33mm) Between Arc (86.25mm,4mm) on Bottom Layer And Pad H3-1(86.25mm,4mm) on Multi-Layer Waived by Bantybanty Bantybanty at 25-12-2022 06:43:20 PM
+   Waived Violation between Clearance Constraint: (0.102mm < 0.33mm) Between Arc (86.25mm,4mm) on Top Layer And Pad H3-1(86.25mm,4mm) on Multi-Layer Waived by Bantybanty Bantybanty at 25-12-2022 06:43:20 PM
+   Waived Violation between Clearance Constraint: (0.102mm < 0.33mm) Between Arc (86.25mm,64mm) on Bottom Layer And Pad H2-1(86.25mm,64mm) on Multi-Layer Waived by Bantybanty Bantybanty at 25-12-2022 06:43:20 PM
+   Waived Violation between Clearance Constraint: (0.102mm < 0.33mm) Between Arc (86.25mm,64mm) on Top Layer And Pad H2-1(86.25mm,64mm) on Multi-Layer Waived by Bantybanty Bantybanty at 25-12-2022 06:43:20 PM
+Waived Violations :8
+
+Waived Violations Of Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (0.045mm < 0.15mm) Between Pad J8-2(38.75mm,45.57mm) on Multi-Layer And Track (37.48mm,38.96mm)(37.48mm,49.64mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.045mm]Waived by Bantybanty Bantybanty at 14-12-2022 04:40:44 AM
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (0.045mm < 0.15mm) Between Pad J8-2(38.75mm,45.57mm) on Multi-Layer And Track (40.02mm,38.96mm)(40.02mm,49.64mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.045mm]Waived by Bantybanty Bantybanty at 14-12-2022 04:40:44 AM
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (0.045mm < 0.15mm) Between Pad J8-3(38.75mm,43.03mm) on Multi-Layer And Track (37.48mm,38.96mm)(37.48mm,49.64mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.045mm]Waived by Bantybanty Bantybanty at 14-12-2022 04:40:44 AM
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (0.045mm < 0.15mm) Between Pad J8-3(38.75mm,43.03mm) on Multi-Layer And Track (40.02mm,38.96mm)(40.02mm,49.64mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.045mm]Waived by Bantybanty Bantybanty at 14-12-2022 04:40:44 AM
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (0.045mm < 0.15mm) Between Pad J8-4(38.75mm,40.49mm) on Multi-Layer And Track (37.48mm,38.96mm)(37.48mm,49.64mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.045mm]Waived by Bantybanty Bantybanty at 14-12-2022 04:40:44 AM
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (0.045mm < 0.15mm) Between Pad J8-4(38.75mm,40.49mm) on Multi-Layer And Track (40.02mm,38.96mm)(40.02mm,49.64mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.045mm]Waived by Bantybanty Bantybanty at 14-12-2022 04:40:44 AM
+Waived Violations :6
+
+
+Violations Detected : 86
+Waived Violations : 14
+PCB Health Issues : 0
+Time Elapsed        : 00:00:01

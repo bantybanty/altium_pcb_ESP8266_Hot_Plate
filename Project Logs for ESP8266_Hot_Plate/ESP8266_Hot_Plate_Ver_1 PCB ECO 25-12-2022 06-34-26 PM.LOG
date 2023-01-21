@@ -1,0 +1,36 @@
+Added Component: Designator=H1(3,2-PAD)
+Add component (AddParameter): Name = "DeviceName"; Value = "3.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MOUNT-PAD-ROUND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Holes-Custom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3,2-PAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "POPULARITY"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MOUNT-PAD"; VariantName = "[No Variations]"
+Added Component: Designator=H2(3,2-PAD)
+Add component (AddParameter): Name = "DeviceName"; Value = "3.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MOUNT-PAD-ROUND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Holes-Custom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3,2-PAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "POPULARITY"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MOUNT-PAD"; VariantName = "[No Variations]"
+Added Component: Designator=H3(3,2-PAD)
+Add component (AddParameter): Name = "DeviceName"; Value = "3.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MOUNT-PAD-ROUND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Holes-Custom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3,2-PAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "POPULARITY"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MOUNT-PAD"; VariantName = "[No Variations]"
+Added Component: Designator=H4(3,2-PAD)
+Add component (AddParameter): Name = "DeviceName"; Value = "3.2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "MOUNT-PAD-ROUND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "Holes-Custom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3,2-PAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "POPULARITY"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MOUNT-PAD"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=1_ESP8266_Hot_Plate Member=Component H1 MOUNTING PAD, round
+Added Member To Class: ClassName=1_ESP8266_Hot_Plate Member=Component H2 MOUNTING PAD, round
+Added Member To Class: ClassName=1_ESP8266_Hot_Plate Member=Component H3 MOUNTING PAD, round
+Added Member To Class: ClassName=1_ESP8266_Hot_Plate Member=Component H4 MOUNTING PAD, round

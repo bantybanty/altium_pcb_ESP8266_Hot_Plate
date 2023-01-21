@@ -1,0 +1,51 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Change Component Designator: OldDesignator=J? NewDesignator=J12
+Change Component Designator: OldDesignator=J? NewDesignator=J13
+Change Component Designator: OldDesignator=J? NewDesignator=J14
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=CS-2 Pin=J11-7
+Added Pin To Net: NetName=MISO-2 Pin=J11-8
+Added Pin To Net: NetName=SCLK-2 Pin=J11-9
+Added Pin To Net: NetName=GND Pin=J11-10
+Added Pin To Net: NetName=+3.3V Pin=J11-11
+Added Pin To Net: NetName=GND Pin=J12-2
+Added Pin To Net: NetName=SLC Pin=J13-2
+Added Pin To Net: NetName=SDA Pin=J13-3
+Added Pin To Net: NetName=SW Pin=J13-5
+Added Pin To Net: NetName=+3.3V Pin=J13-6
+Added Pin To Net: NetName=GND Pin=J13-7
+Added Pin To Net: NetName=SCLK-1 Pin=J13-8
+Added Pin To Net: NetName=MISO-1 Pin=J13-9
+Added Pin To Net: NetName=CS-1 Pin=J13-10
+Added Pin To Net: NetName=Relay Pin=J13-11
+Added Pin To Net: NetName=GND Pin=J14-2
+Added Pin To Net: NetName=GND Pin=M1-14
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ13_1
+Change Net Name : Old Net Name=NetJ?_12 New Net Name=NetJ11_12
+Added Pin To Net: NetName=NetJ11_3 Pin=J11-3
+Added Pin To Net: NetName=NetJ11_3 Pin=M1-3
+Added Net: Name=NetJ11_3
+Added Pin To Net: NetName=NetJ11_4 Pin=J11-4
+Added Pin To Net: NetName=NetJ11_4 Pin=M1-4
+Added Net: Name=NetJ11_4
+Added Pin To Net: NetName=NetJ11_5 Pin=J11-5
+Added Pin To Net: NetName=NetJ11_5 Pin=M1-5
+Added Net: Name=NetJ11_5
+Added Pin To Net: NetName=NetJ11_6 Pin=J11-6
+Added Pin To Net: NetName=NetJ11_6 Pin=M1-6
+Added Net: Name=NetJ11_6
+Added Pin To Net: NetName=NetJ12_1 Pin=J12-1
+Added Pin To Net: NetName=NetJ12_1 Pin=M1-13
+Added Net: Name=NetJ12_1
+Added Pin To Net: NetName=NetJ13_4 Pin=J13-4
+Added Pin To Net: NetName=NetJ13_4 Pin=M1-27
+Added Net: Name=NetJ13_4
+Added Pin To Net: NetName=NetJ13_12 Pin=J13-12
+Added Pin To Net: NetName=NetJ13_12 Pin=M1-19
+Added Net: Name=NetJ13_12
+Added Pin To Net: NetName=NetJ14_1 Pin=J14-1
+Added Pin To Net: NetName=NetJ14_1 Pin=M1-18
+Added Net: Name=NetJ14_1
+Added Member To Class: ClassName=1_ESP8266_Hot_Plate Member=Component J11 M20-7821242
+Added Member To Class: ClassName=1_ESP8266_Hot_Plate Member=Component J12 M20-7820342
+Added Member To Class: ClassName=1_ESP8266_Hot_Plate Member=Component J13 M20-7821242

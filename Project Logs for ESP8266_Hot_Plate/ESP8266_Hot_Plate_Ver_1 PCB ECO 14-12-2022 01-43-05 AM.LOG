@@ -1,0 +1,28 @@
+Change Component Footprint: Designator=JP1 Old Footprint=SMT-JUMPER_3_1-NC_TRACE_SILK New Footprint=SMT-JUMPER_3_1-NC_PASTE_SILK
+Change Component Footprint: Designator=JP2 Old Footprint=SMT-JUMPER_3_1-NC_TRACE_SILK New Footprint=SMT-JUMPER_3_1-NC_PASTE_SILK
+Change Component Footprint: Designator=JP3 Old Footprint=SMT-JUMPER_3_1-NC_TRACE_SILK New Footprint=SMT-JUMPER_3_1-NC_PASTE_SILK
+Change Component Comment : Designator=JP1 Old Comment=JUMPER-SMT_3_1-NC_TRACE_SILK New Comment=JUMPER-SMT_3_1-NC_PASTE_SILK
+Change Component Comment : Designator=JP2 Old Comment=JUMPER-SMT_3_1-NC_TRACE_SILK New Comment=JUMPER-SMT_3_1-NC_PASTE_SILK
+Change Component Comment : Designator=JP3 Old Comment=JUMPER-SMT_3_1-NC_TRACE_SILK New Comment=JUMPER-SMT_3_1-NC_PASTE_SILK
+Change component parameters: Designator = "JP1" ("JP1"); Footprint = "SMT-JUMPER_3_1-NC_TRACE_SILK"; UniqueID = "\HBKMUNJL" ("\HBKMUNJL")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMT-JUMPER_3_1-NC_PASTE_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP2" ("JP2"); Footprint = "SMT-JUMPER_3_1-NC_TRACE_SILK"; UniqueID = "\NRCOPPNA" ("\NRCOPPNA")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMT-JUMPER_3_1-NC_PASTE_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP3" ("JP3"); Footprint = "SMT-JUMPER_3_1-NC_TRACE_SILK"; UniqueID = "\XIHBWMGP" ("\XIHBWMGP")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMT-JUMPER_3_1-NC_PASTE_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=1_ESP8266_Hot_Plate Member=Component J14 M20-7820342

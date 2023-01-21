@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=SDA Pin=J6-1
+Removed Pin From Net: NetName=SLC Pin=J6-2
+Removed Pin From Net: NetName=+3.3V Pin=J6-3
+Removed Pin From Net: NetName=GND Pin=J6-4
+Added Component: Designator=MU(DISPLAY-OLED-128X64-I2C)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "DISPLAY-OLED-128X64-I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "diy-modules"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DISPLAY-OLED-128X64-I2C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "DISPLAY-OLED-128X64-I2C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=+3.3V Pin=J6-2
+Added Pin To Net: NetName=SLC Pin=J6-3
+Added Pin To Net: NetName=SDA Pin=J6-4
+Added Pin To Net: NetName=GND Pin=MU-1
+Added Pin To Net: NetName=+3.3V Pin=MU-2
+Added Pin To Net: NetName=SLC Pin=MU-3
+Added Pin To Net: NetName=SDA Pin=MU-4
+Added Member To Class: ClassName=1_ESP8266_Hot_Plate Member=Component MU 128x64 Dot Matrix OLED Module based on SSD1306

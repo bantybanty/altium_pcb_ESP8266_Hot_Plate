@@ -1,0 +1,51 @@
+Change Component Library : Designator=D1 Old Library=Altium Content Vault New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=J2 Old Library=Altium Content Vault New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=J3 Old Library=Altium Content Vault New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=J4 Old Library=Altium Content Vault New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=J5 Old Library=Altium Content Vault New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=J6 Old Library=Altium Content Vault New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=J7 Old Library=Altium Content Vault New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=Q1 Old Library=Altium Content Vault New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=R4 Old Library=Altium Content Vault New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=U1 Old Library=Altium Content Vault New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=D2 Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=J8 Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=IC1 Old Library=Custom-IC.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=SW1 Old Library=Custom-switch.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=C1 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=C2 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=C3 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=C4 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=C5 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=C6 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=C7 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=C8 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=FM1 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=FM2 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=FM3 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=FM4 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=R1 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=R2 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=R3 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=R5 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=R6 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=R7 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=R8 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=R9 Old Library=Custom.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=H1 Old Library=Custom_Holes.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=H2 Old Library=Custom_Holes.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=H3 Old Library=Custom_Holes.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=H4 Old Library=Custom_Holes.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=MU1 Old Library=diy-modules.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=D3 Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=D4 Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=D5 Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=D6 Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=F1 Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=F2 Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=F3 Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=J1 Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=M1 Old Library=nodemcu.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=JP1 Old Library=SparkFun-Jumpers.Library.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=JP2 Old Library=SparkFun-Jumpers.Library.IntLib New Library=ESP8266_Hot_Plate.IntLib
+Change Component Library : Designator=JP3 Old Library=SparkFun-Jumpers.Library.IntLib New Library=ESP8266_Hot_Plate.IntLib

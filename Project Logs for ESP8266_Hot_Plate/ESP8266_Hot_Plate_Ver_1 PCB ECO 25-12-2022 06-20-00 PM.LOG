@@ -1,0 +1,8 @@
+Added Component: Designator=FM1(FIDUCIAL-1MM)
+Added Component: Designator=FM2(FIDUCIAL-1MM)
+Added Component: Designator=FM3(FIDUCIAL-1MM)
+Added Component: Designator=FM4(FIDUCIAL-1MM)
+Added Member To Class: ClassName=1_ESP8266_Hot_Plate Member=Component FM1 FIDUCIAL
+Added Member To Class: ClassName=1_ESP8266_Hot_Plate Member=Component FM2 FIDUCIAL
+Added Member To Class: ClassName=1_ESP8266_Hot_Plate Member=Component FM3 FIDUCIAL
+Added Member To Class: ClassName=1_ESP8266_Hot_Plate Member=Component FM4 FIDUCIAL

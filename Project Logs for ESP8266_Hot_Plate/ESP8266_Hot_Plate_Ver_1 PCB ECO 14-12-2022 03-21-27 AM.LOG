@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Diff_Pair_OLED_N Pin=J13-2
+Removed Pin From Net: NetName=Diff_Pair_OLED_P Pin=J13-3
+Removed Pin From Net: NetName=Diff_Pair_OLED_P Pin=M1-28
+Removed Pin From Net: NetName=Diff_Pair_OLED_N Pin=M1-29
+Added Pin To Net: NetName=Diff_Pair_OLED_P Pin=J13-2
+Added Pin To Net: NetName=Diff_Pair_OLED_N Pin=J13-3
+Added Pin To Net: NetName=Diff_Pair_OLED_N Pin=M1-28
+Added Pin To Net: NetName=Diff_Pair_OLED_P Pin=M1-29

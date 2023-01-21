@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Power Member=NetF3_2
+Removed Member From Class: ClassName=Signal Member=T+
+Removed Member From Class: ClassName=Signal Member=T-
+Change Net Name : Old Net Name=NetF3_2 New Net Name=VIN
+Add Differential Pair: Number of nets in differential pair T+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair T- is 1 instead of 2
+Added Member To Class: ClassName=Power Member=Wire VIN

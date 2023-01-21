@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+3.3V Pin=MU-2
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Added Component: Designator=J1(DC-005-5A-3.0)
+Add component (AddParameter): Name = "Parameter 1"; Value = "XKB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 2"; Value = "DC-005-5A-3.0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Member To Class: ClassName=1_ESP8266_Hot_Plate Member=Component J7 SSW-104-03-T-S

@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=T+ New Net Name=Temp_Diff_Pair_P
+Change Net Name : Old Net Name=T- New Net Name=Temp_Diff_Pair_N
+Change Net Color : Old Net Color=RGB(74, 134, 232) New Net Color=Default
+Change Net Color : Old Net Color=RGB(74, 134, 232) New Net Color=Default
+Added Differential Pair: Name=Temp_Diff_Pair
+Added Class: Name=Temp_Diff_Pair

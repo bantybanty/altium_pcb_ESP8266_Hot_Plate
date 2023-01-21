@@ -1,0 +1,40 @@
+Change Component DesignItemId : Designator=H1 Old DesignItemId=MOUNT-PAD-ROUND3.2 New DesignItemId=MOUNT-PAD-ROUND2.8
+Change Component DesignItemId : Designator=H2 Old DesignItemId=MOUNT-PAD-ROUND3.2 New DesignItemId=MOUNT-PAD-ROUND2.8
+Change Component DesignItemId : Designator=H3 Old DesignItemId=MOUNT-PAD-ROUND3.2 New DesignItemId=MOUNT-PAD-ROUND2.8
+Change Component DesignItemId : Designator=H4 Old DesignItemId=MOUNT-PAD-ROUND3.2 New DesignItemId=MOUNT-PAD-ROUND2.8
+Change Component Footprint: Designator=H1 Old Footprint=3,2-PAD New Footprint=2,8-PAD
+Change Component Footprint: Designator=H2 Old Footprint=3,2-PAD New Footprint=2,8-PAD
+Change Component Footprint: Designator=H3 Old Footprint=3,2-PAD New Footprint=2,8-PAD
+Change Component Footprint: Designator=H4 Old Footprint=3,2-PAD New Footprint=2,8-PAD
+Change component parameters: Designator = "H1" ("H1"); Footprint = "3,2-PAD"; UniqueID = "\TMXGZWPS" ("\TMXGZWPS")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "2.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "MOUNT-PAD-ROUND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Holes-Custom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2,8-PAD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "POPULARITY"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "MOUNT-PAD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H2" ("H2"); Footprint = "3,2-PAD"; UniqueID = "\ZRGLMWSY" ("\ZRGLMWSY")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "2.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "MOUNT-PAD-ROUND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Holes-Custom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2,8-PAD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "POPULARITY"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "MOUNT-PAD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H3" ("H3"); Footprint = "3,2-PAD"; UniqueID = "\UFXVBDGN" ("\UFXVBDGN")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "2.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "MOUNT-PAD-ROUND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Holes-Custom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2,8-PAD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "POPULARITY"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "MOUNT-PAD"; VariantName = "[No Variations]"
+Change component parameters: Designator = "H4" ("H4"); Footprint = "3,2-PAD"; UniqueID = "\CNIIGKAQ" ("\CNIIGKAQ")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "2.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "MOUNT-PAD-ROUND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "Holes-Custom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2,8-PAD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "POPULARITY"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "MOUNT-PAD"; VariantName = "[No Variations]"

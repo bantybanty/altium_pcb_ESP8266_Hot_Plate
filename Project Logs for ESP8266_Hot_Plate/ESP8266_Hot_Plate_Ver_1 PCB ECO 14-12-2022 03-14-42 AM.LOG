@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=Signal Member=SDA
+Removed Member From Class: ClassName=Signal Member=SLC
+Added Pin To Net: NetName=Diff_Pair_OLED_N Pin=J8-4
+Added Pin To Net: NetName=Diff_Pair_OLED_N Pin=MU1-4
+Added Net: Name=Diff_Pair_OLED_N
+Added Pin To Net: NetName=Diff_Pair_OLED_P Pin=J8-3
+Added Pin To Net: NetName=Diff_Pair_OLED_P Pin=MU1-3
+Added Net: Name=Diff_Pair_OLED_P
+Added Pin To Net: NetName=Diff_Pair_SDA_N Pin=J13-2
+Added Pin To Net: NetName=Diff_Pair_SDA_N Pin=J13-3
+Added Pin To Net: NetName=Diff_Pair_SDA_N Pin=M1-28
+Added Pin To Net: NetName=Diff_Pair_SDA_N Pin=M1-29
+Added Net: Name=Diff_Pair_SDA_N
+Added Differential Pair: Name=Diff_Pair_OLED
+Added Class: Name=SDA_SLC

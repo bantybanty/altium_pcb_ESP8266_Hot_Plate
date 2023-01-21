@@ -1,0 +1,51 @@
+Change Component Parameter Library Name in C1 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in C2 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in C3 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in C4 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in C5 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in C6 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in C7 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in C8 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in D1 Old=Altium Content Vault New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in D2 Old=Celestial Altium Library - altium_library.DbLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in D3 Old=Footprint-Lib-PhilsLab.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in D4 Old=Footprint-Lib-PhilsLab.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in D5 Old=Footprint-Lib-PhilsLab.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in D6 Old=Footprint-Lib-PhilsLab.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in F1 Old=Footprint-Lib-PhilsLab.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in F2 Old=Footprint-Lib-PhilsLab.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in F3 Old=Footprint-Lib-PhilsLab.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in FM1 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in FM2 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in FM3 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in FM4 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in H1 Old=Custom_Holes.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in H2 Old=Custom_Holes.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in H3 Old=Custom_Holes.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in H4 Old=Custom_Holes.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in IC1 Old=Custom-IC.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in J1 Old=Footprint-Lib-PhilsLab.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in J2 Old=Altium Content Vault New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in J3 Old=Altium Content Vault New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in J4 Old=Altium Content Vault New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in J5 Old=Altium Content Vault New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in J6 Old=Altium Content Vault New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in J7 Old=Altium Content Vault New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in J8 Old=Celestial Altium Library - altium_library.DbLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in JP1 Old=SparkFun-Jumpers.Library.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in JP2 Old=SparkFun-Jumpers.Library.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in JP3 Old=SparkFun-Jumpers.Library.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in M1 Old=nodemcu.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in MU1 Old=diy-modules.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in Q1 Old=Altium Content Vault New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in R1 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in R2 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in R3 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in R4 Old=Altium Content Vault New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in R5 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in R6 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in R7 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in R8 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in R9 Old=Custom.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in SW1 Old=Custom-switch.IntLib New=ESP8266_Hot_Plate.IntLib
+Change Component Parameter Library Name in U1 Old=Altium Content Vault New=ESP8266_Hot_Plate.IntLib

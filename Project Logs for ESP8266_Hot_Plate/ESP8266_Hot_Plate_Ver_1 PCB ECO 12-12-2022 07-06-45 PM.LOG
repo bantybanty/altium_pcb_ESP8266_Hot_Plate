@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=SW Pin=SW1-1
+Removed Pin From Net: NetName=SW Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Change Component Footprint: Designator=SW1 Old Footprint=FP-PTS645SH50SMTR92LFS-MFG New Footprint=B3FS4002P
+Change Component Comment : Designator=SW1 Old Comment=PTS645SH50SMTR92LFS New Comment=B3FS-4002P
+Change Managed Component Library Link : Designator=SW1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=216A0AB0-50F1-41FA-8340-188941FAED7C New ItemGUID= Old RevisionGUID=0EFB52CB-0FF6-4BCE-844D-75CBFB1CD5E4 New RevisionGUID=
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "FP-PTS645SH50SMTR92LFS-MFG"; UniqueID = "\VNXNBISE" ("\VNXNBISE")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs_4.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Geometry.Height"; Value = "4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B3FS-4002P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "653-B3FS-4002P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/B3FS-4002P?qs=%2Fv%252BM2iqGzeVovpzrTEhCpQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=SW Pin=SW1-3
+Added Pin To Net: NetName=SW Pin=SW1-4
